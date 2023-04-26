@@ -1,0 +1,11 @@
+{"hostname":"contosopc42",
+"id":"<14>1",
+"Service":"antivirus",
+"source_ip":"216.58.194.142",
+"program":"contosohost1",
+"port":"2496",
+"severity":"1",
+"log_timestamp":"2016-12-25T09:03:52.754646-06:00",
+"description":"Virus Found",
+"@version":"1",
+"@timestamp":"2023-04-27T00:52:46.889213800Z"}
