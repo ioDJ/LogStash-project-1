@@ -19,8 +19,6 @@ The task was to create a solution that could parse the fields within the securit
 
 I tested the pipeline with PowerShell and the Windows command prompt, and constructed it in Visual Studio Code.
 
-Thanks!
-
 ***
 
 ## Troubleshooting
